@@ -39,5 +39,7 @@ Recommendations : App Growth & User Engagement
 
 • Regular updates and continuous user feedback analysis can improve ratings, retention, and long-term engagement.
 
+DashBoard : 
 
+<img width="2010" height="1135" alt="Image" src="https://github.com/user-attachments/assets/46274b4a-dff5-491e-a0bb-024c4e6a54b5" />
 
