@@ -41,5 +41,6 @@ Recommendations : App Growth & User Engagement
 
 DashBoard : 
 
-<img width="2010" height="1135" alt="Image" src="https://github.com/user-attachments/assets/46274b4a-dff5-491e-a0bb-024c4e6a54b5" />
+<img width="2242" height="1264" alt="image" src="https://github.com/user-attachments/assets/a8514907-e0bf-4fa6-9730-c3b63670560e" />
+
 
